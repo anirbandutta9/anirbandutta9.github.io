@@ -1,0 +1,6 @@
+.sublime-workspace
+
+_site/
+*.swp
+pkg/
+test/
