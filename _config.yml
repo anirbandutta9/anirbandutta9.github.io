@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Anirban Dutta
 description:      Linux Administrator
-baseurl:          /
+baseurl:          
 
 # SEO Advanced usage
 twitter:
