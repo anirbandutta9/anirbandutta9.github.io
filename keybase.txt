@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/anirbandutta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://anirbandutta.ml
+  * I am anirbandutta (https://keybase.io/anirbandutta) on keybase.
+  * I have a public key with fingerprint E1B6 5A9F 1201 E205 CD05  9766 0EF4 D0E2 8C8C 1E98
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101aac056716ca94cfbf9da417957ee499e4ac4bbe283df2af4681d62dfebd318a20a",
+      "fingerprint": "e1b65a9f1201e205cd0597660ef4d0e28c8c1e98",
+      "host": "keybase.io",
+      "key_id": "0ef4d0e28c8c1e98",
+      "kid": "0101aac056716ca94cfbf9da417957ee499e4ac4bbe283df2af4681d62dfebd318a20a",
+      "uid": "2cdfdc5c2bdd9c359f173f8b5c85e719",
+      "username": "anirbandutta"
+    },
+    "service": {
+      "hostname": "anirbandutta.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535345031,
+  "expire_in": 157680000,
+  "prev": "f6e91aa0e2a6f2d4d8d29ddcb2e46a2fad55ec23de1450bb34db95ff34f032c2",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIlAnicrZJbSBRRGMd3NdMEw3Qr0Cwc02I1m/vObJIPgVGEJJjRhbZzm90pm1ln
+x9VtEYsepIcIsoKojFojw4IUsvWSXegGQSAUtAYRXV6Kigq7aFBnrJ7qsfNyOOf7
+f7/z//6cWznprmz35SOeDwXl7bPd9290Nbu27NvbEWegiWOMP87sJNMbacQkYgd2
+6pjxMyzHcgAgVpJ9nIyAKiINaioGIudTJR8hoqoSESARQsIrAtZ4oImywmGZxxqB
+WOAUwLOAqWA03QgSK2zphk2xhIOyBFSN41mO8KyEMCupPllmiSZilqKQgjiiKrQx
+ZEacDmoOggip1E16Rw+BX/b+1v9n383TOB5hDSMJ8RBjFQkSde4TNAVKSJGIj1Md
+YYRYBthFqBoYugWBgZttGzBtFQytRHVEnHCdaf6hqtzVSBFhy7RNZDbSYsi2wxG/
+02zHwo66hcDAb04A6gamcdKOKLEiumkwfo4qka07YE4SJEGUWIGrYEhrWLdIQHcU
+kk9WWLqcd0iUIjWZqDQkGh+QNR6LWMG8ijGCPBFlwGsASxJBvIAJR3EQCiKGqqRp
+gqixAo94xpmsyTAZv0BtgiBFRvSgAexmizBtN69vneFyZ7tmZqQ538yVPSv3z+dL
+GVmuHs/tsVhWV+uTea8nH70RvzU8XOXJTI0bJW/cF8sL0jMG8ruv9s43NhV9TSR2
+tDzIDG8L3UuNPD37HYh36kuHRx92VaO5NX2eS+4lCZw6PjF+9+sDfU81zvF2T5wY
+9v7YnRz9nPV4gTc0PBKP4KaNa8+sLMLvPr0aG5rsHexvyI+uWVSTisPFg/Kx3HXe
+4p7CqfplfafVurJCE6fPKV9RNmav3jEw0Dtv6m17tLy49NaGhUMTz+6/7t5+aP9H
+uL7zc1VQv/LiVPzA5mulakdebX9ZDOefrP2S7Mvo3D76/uOF5c/Vc/1Ln9WFqnDe
+4UThy2t5ieT5oy1p1lRJ8uDE5E+GdUfE
+=zOAK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anirbandutta
+
+==================================================================
